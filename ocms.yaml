@@ -1,0 +1,8 @@
+ocms: v1
+kind: lab
+name: go-tcp-server
+url: github.com/rwxrob/lab-go-tcp-server
+issues: github.com/rwxrob/lab-go-tcp-server/issues
+version: v0.0.1
+lang: en
+levels: [ PROGRAMMING(II), NETWORKING(II) ]
